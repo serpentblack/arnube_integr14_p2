@@ -1,6 +1,6 @@
 # Serverless con AWS Lambda y Python, Api para gestión de imágenes S3
 
-
+![Arquitectura](img/picture.png)
 
 ## ¿Qué haremos en esta práctica?
 * Introducción a Serverless y AWS Lambda: Comprenderán qué es la arquitectura Serverless y cómo AWS Lambda se integra en este paradigma.
